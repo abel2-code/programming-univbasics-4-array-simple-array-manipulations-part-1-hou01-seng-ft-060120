@@ -17,4 +17,3 @@ end
 def using_shift
   array.shift
 end
-
